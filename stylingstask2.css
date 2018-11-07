@@ -1,0 +1,16 @@
+.div-one{
+    width:100%;height:300px;background-color:grey;
+}
+.div-two{
+    width:100%;height:300px;background-image:
+    url("bubble-pic.jpeg");
+}
+.div-three{
+    width:100%;height:300px;position:absolute;left:0px;top:600px;
+    background-image:
+    url("bubble-pic.jpeg");
+}
+.div-four{
+    width:100%;height:300px;position:absolute;left:0px;top:600px;
+    background-color:red;opacity:0.3;
+}
